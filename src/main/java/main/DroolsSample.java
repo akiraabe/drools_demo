@@ -1,7 +1,6 @@
 package main;
 
 import fact.Apple;
-import org.kie.api.runtime.KieSession;
 import util.DroolsUtil;
 
 import java.util.Arrays;
